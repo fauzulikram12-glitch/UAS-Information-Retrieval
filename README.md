@@ -4,8 +4,8 @@ Web scraping dan pencarian buku menggunakan Scrapy + Streamlit.
 
 ## Tech Stack
 
-- **Scrapy** - Web scraping framework
-- **Streamlit** - Web UI untuk pencarian/filter buku
+- **Scrapy** — scraping data buku dari [books.toscrape.com](http://books.toscrape.com) ([GitHub](https://github.com/fauzulikram12-glitch/UAS-Information-Retrieval))
+- **Streamlit** — Web UI untuk pencarian/filter buku ([Live App](https://uas-information-retrieval-wafzie3tt6ywt2wkgomhex.streamlit.app/))
 - **Pandas** - Data processing
 
 ## Project Structure
